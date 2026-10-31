@@ -7,7 +7,7 @@ authors:
 lastUpdated: 2026-10-05
 ---
 
-Faça um tour prático pelo GitHub Copilot CLI, pensado para quem está começando. Você criará um Space Quiz colorido a partir de uma pasta vazia e conhecerá o ciclo centrado no terminal: criar o projeto e revisar os diffs antes de qualquer gravação no Git, executar sessões lado a lado, planejar antes de editar e, depois, criar e mesclar o pull request sem sair do shell.
+Faça um tour prático pelo GitHub Copilot CLI, pensado para quem está começando. Você criará um Space Quiz colorido a partir de uma pasta vazia e conhecerá o fluxo de trabalho com foco no terminal: criar e revisar diffs antes de gravá-los com o Git, executar sessões lado a lado, planejar antes de editar e, depois, criar e integrar o pull request sem sair do shell.
 
 O workshop leva aproximadamente de 60 a 90 minutos. O projeto usa um único arquivo HTML, sem dependências de tempo de execução, para que você possa se concentrar em conhecer a CLI e seus fluxos de trabalho com agentes.
 
@@ -26,7 +26,7 @@ O workshop leva aproximadamente de 60 a 90 minutos. O projeto usa um único arqu
 | [5. Planejar antes de editar][lesson-5] | Planejamento | Usar `/plan` para definir uma abordagem para a segunda issue |
 | [6. Saber o que o agente pode ver][lesson-6] | Contexto | Inspecionar e redefinir o contexto com `/context` e `/clear` |
 | [7. Retomar sessões e acessar remotamente][lesson-7] | Retomada | Sair de sessões e voltar a elas com `/resume` e, opcionalmente, acompanhar uma sessão local de outro dispositivo com `/remote` |
-| [8. Criar, revisar e mesclar][lesson-8] | Revisão | Criar e mesclar um pull request com `/pr create` e `/pr agentmerge` |
+| [8. Criar, revisar e integrar][lesson-8] | Revisão | Criar e integrar um pull request com `/pr create` e `/pr agentmerge` |
 | [9. Delegar trabalho][lesson-9] | Delegação | Passar um novo recurso para `/delegate` e acompanhar uma sessão na nuvem |
 | [10. Revisão e próximos passos][lesson-10] | Revisão | Recapitular o fluxo de trabalho e continuar aprendendo |
 
